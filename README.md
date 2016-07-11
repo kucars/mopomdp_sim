@@ -1,2 +1,2 @@
-# mopomdp_sim
+# MO-POMDP Simulation
 Simulation Environment for MO-POMDP
